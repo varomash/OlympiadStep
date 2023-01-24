@@ -129,29 +129,41 @@
   <ItemGroup>
     <ClCompile Include="10ChickenPen.cpp" />
     <ClCompile Include="11LiveStockCount.cpp" />
+    <ClCompile Include="12CowSpeak.cpp" />
     <ClCompile Include="1Crowing.cpp" />
     <ClCompile Include="1Moo.cpp" />
+    <ClCompile Include="2Bunnies.cpp" />
     <ClCompile Include="3Shipping.cpp" />
     <ClCompile Include="4SimpleSum.cpp" />
     <ClCompile Include="5Quack.cpp" />
     <ClCompile Include="7Acres.cpp" />
+    <ClCompile Include="8TractorPath.cpp" />
     <ClCompile Include="Olympiad.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="10ChickenPen.h" />
     <ClInclude Include="11LiveStockCount.h" />
+    <ClInclude Include="12CowSpeak.h" />
     <ClInclude Include="1Moo.h" />
+    <ClInclude Include="2Bunnies.h" />
     <ClInclude Include="3Shipping.h" />
     <ClInclude Include="4SimpleSum.h" />
     <ClInclude Include="5Quack.h" />
     <ClInclude Include="6Crowing.h" />
     <ClInclude Include="3Shipping.in" />
     <ClInclude Include="7Acres.h" />
+    <ClInclude Include="8TractorPath.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="10ChickenPen.in" />
     <None Include="4SimpleSum.in" />
     <None Include="7Acres.in" />
+    <None Include="cowspeak.in" />
+    <None Include="tractorPath01.in" />
+    <None Include="tractorPath02.in" />
+    <None Include="tractorPath03.in" />
+    <None Include="tractorPath04.in" />
+    <None Include="tractorPath05.in" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

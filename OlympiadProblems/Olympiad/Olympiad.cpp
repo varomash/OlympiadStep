@@ -3,13 +3,16 @@
 
 #include <iostream>
 #include "1Moo.h"
+#include "2Bunnies.h"
 #include "3Shipping.h"
 #include "4SimpleSum.h"
 #include "5Quack.h"
 #include "6Crowing.h"
 #include "7Acres.h"
+#include "8TractorPath.h"
 #include "10ChickenPen.h"
 #include "11LiveStockCount.h"
+#include "12CowSpeak.h"
 
 int main()
 {
@@ -22,6 +25,9 @@ int main()
     SimpleSum();
     Acres();
     ChickenPen();
+    Bunnies();
+    TractorPath();
+    CowSpeak();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

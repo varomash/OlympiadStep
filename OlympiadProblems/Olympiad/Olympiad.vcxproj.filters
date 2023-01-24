@@ -45,6 +45,15 @@
     <ClCompile Include="10ChickenPen.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2Bunnies.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="8TractorPath.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="12CowSpeak.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1Moo.h">
@@ -74,6 +83,15 @@
     <ClInclude Include="10ChickenPen.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="2Bunnies.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="8TractorPath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="12CowSpeak.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="4SimpleSum.in">
@@ -83,6 +101,24 @@
       <Filter>InputFiles</Filter>
     </None>
     <None Include="10ChickenPen.in">
+      <Filter>InputFiles</Filter>
+    </None>
+    <None Include="tractorPath01.in">
+      <Filter>InputFiles</Filter>
+    </None>
+    <None Include="tractorPath02.in">
+      <Filter>InputFiles</Filter>
+    </None>
+    <None Include="tractorPath03.in">
+      <Filter>InputFiles</Filter>
+    </None>
+    <None Include="tractorPath04.in">
+      <Filter>InputFiles</Filter>
+    </None>
+    <None Include="tractorPath05.in">
+      <Filter>InputFiles</Filter>
+    </None>
+    <None Include="cowspeak.in">
       <Filter>InputFiles</Filter>
     </None>
   </ItemGroup>
